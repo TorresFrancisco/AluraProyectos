@@ -1,0 +1,19 @@
+{
+  "perfil": [
+    {
+      "nombre": "Christianssss",
+      "email": "Christian@alura.com",
+      "id": 1
+    },
+    {
+      "nombre": "Francisco",
+      "email": "96franciscotorres@gmail.com",
+      "id": "df4339c7-b0c0-44ec-a1a3-487599f383be"
+    },
+    {
+      "nombre": "juanito",
+      "email": "jp@gmail.com",
+      "id": "768192a3-4953-4eb0-a251-6e9733ec50be"
+    }
+  ]
+}
